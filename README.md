@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acdebarros, you can call me Carolina.
 - 👀 I’m a doctoral student in social psychology at Queen's University in Canada. 
-- 🌱 I’m currently learning Python!
+- 🌱 Most of my coding experience is in Python, but I love learning other languages as well!
 - 💞️ I’m looking to collaborate on any projects that help further social psychology research!
 - 📫 How to reach me: you can email me at a.debarros@queensu.ca
 
